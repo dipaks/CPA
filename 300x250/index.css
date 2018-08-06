@@ -1,0 +1,255 @@
+*{
+	position: absolute;
+}
+
+ *, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body, html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-family: Arial, "sans-serif"
+}
+
+#banner{
+	visibility: hidden;
+}
+#banner.show {
+    visibility:visible;
+}
+
+#banner {
+	width: 300px;
+	height: 250px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	overflow: hidden;
+	border: 1px solid #000000;
+}
+
+.hide {
+	opacity: 0;
+}
+#click_through{
+	z-index: 100000;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+}
+#click_through, #click_through a{
+	left: 0;
+	top: 0;
+}
+
+
+#cta_group {
+	position: absolute;
+    left: 13px;
+    bottom: 13px;
+}
+#cta {
+	border-radius: 6px;
+	border: 1px solid #fff;
+    padding: 7px 20px 7px 12px;
+    position: relative;
+    background: none;
+	font-family: Arial," sans-serif";
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+	text-transform: uppercase;
+}
+#cta_arrow {
+	position: absolute;
+    width: 0;
+    height: 0;
+    top: 10px;
+    right: 9px;
+	border-style: solid;
+	border-width: 5px 0 5px 6px;
+	border-color: transparent transparent transparent #ffffff;
+}
+
+#bgImage, #trasparentBg {
+	left: -56px;
+    top: -81px;
+}
+#trasparentBg {
+	width: 432px;
+	height: 432px;
+}
+
+#frame1, #frame2, #frame3, #frame4 {
+	width: 100%;
+	height: 100%;
+}
+
+/*Frames Stylesheet*/
+#frame1.option2 #text1, #frame2.option4 #text1, #frame3.option4 #text1 {
+	font-family: Arial, "sans-serif";
+	font-size: 32px;
+	color: #00234b;
+	font-weight:bold;
+	text-transform: uppercase;
+	line-height: 30px;
+	left:12px;
+	top:28px;
+	
+}
+
+#frame2.option1 #text1, #frame3.option1 #text1 {
+	font-family: Arial, "sans-serif";
+	font-size: 14px;
+	color: #00234b;
+	font-weight:bold;
+	text-transform: uppercase;
+	left:91px;
+	top:21px;
+	
+}
+#frame2.option1 #text2, #frame3.option1 #text2 {
+	font-family: Arial, "sans-serif";
+	font-size: 12px;
+	color: #ffffff;
+	font-weight:bold;
+	text-transform: uppercase;
+	left:91px;
+	top:37px;
+	width: 160px;
+	
+}
+#frame2.option1 #text3, #frame3.option1 #text3 {
+	font-family: Arial, "sans-serif";
+	font-size: 19px;
+	color: #00234b;
+	font-weight:bold;
+	text-transform: uppercase;
+	left:12px;
+	top:95px;
+	width: 260px;
+}
+
+#frame4.option1 #text1 {
+    font-family: Arial, "sans-serif";
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    left: 13px;
+    top: 125px;
+    width: 260px;
+}
+
+#frame2.option2 #text1, #frame3.option2 #text1 {
+	font-family: Arial, "sans-serif";
+	font-size: 19px;
+	line-height: 20px;
+	color: #ffffff;
+	font-weight:bold;
+	text-transform: uppercase;
+	left:138px;
+	top:66px;
+	width: 150px;
+}
+#frame2.option2 #text2, #frame3.option2 #text2 {
+	font-family: Arial, "sans-serif";
+    font-size: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-weight: bold;
+    left: 138px;
+    top: 145px;
+    width: 150px;
+    border-top: 1px solid #fff;
+    padding-top: 5px;
+	
+}
+#frame2.option2 #text3, #frame3.option2 #text3 {
+	font-family: Arial, "sans-serif";
+	font-size: 10px;
+	line-height: 10px;
+	color: #00234b;
+	font-weight:bold;
+	left:138px;
+	top:164px;
+	
+}
+
+#frame2.option3 #text1, #frame3.option3 #text1 {
+    font-family: Arial, "sans-serif";
+    font-size: 17px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    left: 13px;
+    top: 96px;
+	width: 260px;
+}
+#frame2.option5 #text1, #frame3.option5 #text1 {
+    font-family: Arial, "sans-serif";
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    left: 13px;
+    top: 27px;
+	width: 260px;
+}
+
+#frame2.option6 #text1, #frame3.option6 #text1 {
+    font-family: Arial, "sans-serif";
+    font-size: 30px;
+    color: #00234b;
+    font-weight: bold;
+    text-transform: uppercase;
+    top: 74px;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+#frame2.option6 #text2, #frame3.option6 #text2 {
+    font-family: Arial, "sans-serif";
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: normal;
+    text-transform: uppercase;
+    top: 110px;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+#frame4.option2 #text1 {
+	font-family: Arial, "sans-serif";
+	font-size: 32px;
+	color: #00234b;
+	font-weight:bold;
+	text-transform: uppercase;
+	line-height: 30px;
+	left:12px;
+	top:28px;
+	position: relative;
+}
+
+#frame4.option2 #text2 {
+    font-family: Arial, "sans-serif";
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    left: 13px;
+    top: 27px;
+	width: 260px;
+	position: relative;
+}
