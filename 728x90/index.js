@@ -25,51 +25,51 @@ boilerplate.processAd = function () {
 boilerplate.DynamicContentElements = function () {
 
 	// Dynamic Content variables
-	Enabler.setProfileId(10122842);
+	Enabler.setProfileId(10141934);
     var devDynamicContent = {};
 
-    devDynamicContent.CPACongressDynamicBanners2018_300x250= [{}];
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0]._id = 0;
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].unique_id = 2;
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].ad_name = "CPA-Congress1";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].frame1 = "option2";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].frame2 = "option3";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].frame3 = "option6";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].frame4 = "option1";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_image1 = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180729193448957_f6_logo.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_text = "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_image1 = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180729191856816_quote.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text1 = "\u201CAmazing day with minds exploding with new information. lots of opportunity.\u201D";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text2 = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text3 = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_image1 = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180729192900676_f6_text_bg.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text1 = "KUALA LUMPUR";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text2 = "6 September";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text3 = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_image1 = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180729193448957_f6_logo.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_text1 = "KUALA LUMPUR | 6 Sept";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_text2 = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].logo = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].logo.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].logo.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180729191852523_logo.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].cta_button_text = "Find Out More";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].ctaTextColour = "#ffffff";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].cta_backgroundColor = "none";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].exitUrl = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_image = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_image.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_image.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180801194422977_background.png";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_transparent = "background: rgb(0,155,199);background: linear-gradient(35deg, rgba(0,155,199,1) 0%, rgba(255,255,255,0) 85%);";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_color = "#99a233";
-    devDynamicContent.CPACongressDynamicBanners2018_300x250[0].isDefault = false;
+    devDynamicContent.CPACongressDynamicBanners2018_728x90= [{}];
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0]._id = 0;
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].unique_id = 2;
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].ad_name = "CPA-Congress1";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].frame1 = "option2";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].frame2 = "option3";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].frame3 = "option7";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].frame4 = "option1";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180806230423959_f1_logo.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_text = "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180806212533962_quote.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text1 = "\u201CAmazing day with minds exploding with new information. lots of opportunity.\u201D";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text2 = "";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text3 = "";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180806212524490_f6_text_bg.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text1 = "KUALA LUMPUR";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text2 = "6 September";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text3 = "";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180806212519713_f6_logo.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_text1 = "KUALA LUMPUR | 6 Sept";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_text2 = "";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].logo = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].logo.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].logo.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180806212529188_logo.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].cta_button_text = "Find Out More";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].ctaTextColour = "#ffffff";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].cta_backgroundColor = "none";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].exitUrl = "";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_image = {};
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_image.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_image.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165052096_background.png";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_transparent = "background: linear-gradient(322deg, rgb(0, 155, 199) 0%, rgba(255, 255, 255, 0) 73%);";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_color = "#99a233";
+    devDynamicContent.CPACongressDynamicBanners2018_728x90[0].isDefault = false;
     Enabler.setDevDynamicContent(devDynamicContent);
 	
 	// End Dynamic Content variables
@@ -80,10 +80,10 @@ boilerplate.DynamicContentElements = function () {
 	frame3 = document.getElementById('frame3');
 	frame4 = document.getElementById('frame4');
 	
-	f1_option = dynamicContent.CPACongressDynamicBanners2018_300x250[0].frame1;
-	f2_option = dynamicContent.CPACongressDynamicBanners2018_300x250[0].frame2;
-	f3_option = dynamicContent.CPACongressDynamicBanners2018_300x250[0].frame3;
-	f4_option = dynamicContent.CPACongressDynamicBanners2018_300x250[0].frame4;
+	f1_option = dynamicContent.CPACongressDynamicBanners2018_728x90[0].frame1;
+	f2_option = dynamicContent.CPACongressDynamicBanners2018_728x90[0].frame2;
+	f3_option = dynamicContent.CPACongressDynamicBanners2018_728x90[0].frame3;
+	f4_option = dynamicContent.CPACongressDynamicBanners2018_728x90[0].frame4;
 	
 	//console.log(f1_option+f2_option+f3_option+f4_option);
 
@@ -124,12 +124,12 @@ boilerplate.DynamicContentElements = function () {
 		case 'option3':
 			frame2.classList.add('option3');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[3];
+			frame2.innerHTML = content_formats[6];
 			break;
 		case 'option4':
 			frame2.classList.add('option4');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[0];
+			frame2.innerHTML = content_formats[3];
 			break;
 		case 'option5':
 			frame2.classList.add('option5');
@@ -138,6 +138,11 @@ boilerplate.DynamicContentElements = function () {
 			break;
 		case 'option6':
 			frame2.classList.add('option6');
+			frame2.classList.add('hide');
+			frame2.innerHTML = content_formats[0];
+			break;
+		case 'option7':
+			frame2.classList.add('option7');
 			frame2.classList.add('hide');
 			frame2.innerHTML = content_formats[6];
 			break;
@@ -157,12 +162,12 @@ boilerplate.DynamicContentElements = function () {
 		case 'option3':
 			frame3.classList.add('option3');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[3];
+			frame3.innerHTML = content_formats[6];
 			break;
 		case 'option4':
 			frame3.classList.add('option4');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[0];
+			frame3.innerHTML = content_formats[3];
 			break;
 		case 'option5':
 			frame3.classList.add('option5');
@@ -171,6 +176,11 @@ boilerplate.DynamicContentElements = function () {
 			break;
 		case 'option6':
 			frame3.classList.add('option6');
+			frame3.classList.add('hide');
+			frame3.innerHTML = content_formats[0];
+			break;
+		case 'option7':
+			frame3.classList.add('option7');
 			frame3.classList.add('hide');
 			frame3.innerHTML = content_formats[6];
 			break;
@@ -212,33 +222,33 @@ boilerplate.DynamicContentElements = function () {
 	f4_text1 = document.getElementById('frame4').getElementsByTagName( 'div' )[0];
 	f4_text2 = document.getElementById('frame4').getElementsByTagName( 'div' )[1];
 		
-	banner.style.cssText = "background-color:" + dynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_color + ";";
-	bgImage.src = dynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_image.Url;
-	trasparentBg.style.cssText = dynamicContent.CPACongressDynamicBanners2018_300x250[0].bg_transparent;
-	logo.src = dynamicContent.CPACongressDynamicBanners2018_300x250[0].logo.Url;
-	cta.innerHTML = dynamicContent.CPACongressDynamicBanners2018_300x250[0].cta_button_text;
-	cta.style.cssText = "color:" + dynamicContent.CPACongressDynamicBanners2018_300x250[0].ctaTextColour + ";" + "background-color:" + dynamicContent.CPACongressDynamicBanners2018_300x250[0].cta_backgroundColor + ";";
-	exitUrl = dynamicContent.CPACongressDynamicBanners2018_300x250[0].exitUrl;
+	banner.style.cssText = "background-color:" + dynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_color + ";";
+	bgImage.src = dynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_image.Url;
+	trasparentBg.style.cssText = dynamicContent.CPACongressDynamicBanners2018_728x90[0].bg_transparent;
+	logo.src = dynamicContent.CPACongressDynamicBanners2018_728x90[0].logo.Url;
+	cta.innerHTML = dynamicContent.CPACongressDynamicBanners2018_728x90[0].cta_button_text;
+	cta.style.cssText = "color:" + dynamicContent.CPACongressDynamicBanners2018_728x90[0].ctaTextColour + ";" + "background-color:" + dynamicContent.CPACongressDynamicBanners2018_728x90[0].cta_backgroundColor + ";";
+	exitUrl = dynamicContent.CPACongressDynamicBanners2018_728x90[0].exitUrl;
 	
 	var imgElems = [f1_image1, f2_image1, f3_image1, f4_image1];
 	var imgSrcs = [
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_image1.Url,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_image1.Url,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_image1.Url,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_image1.Url
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_image1.Url
 	];
 	
 	var textElems = [f1_text1, f2_text1, f2_text2, f2_text3, f3_text1, f3_text2, f3_text3, f4_text1, f4_text2];
 	var textSrcs = [
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f1_text,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text1,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text2,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f2_text3,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text1,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text2,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f3_text3,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_text1,
-		dynamicContent.CPACongressDynamicBanners2018_300x250[0].f4_text2
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f1_text,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text1,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text2,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f2_text3,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text1,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text2,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f3_text3,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_text1,
+		dynamicContent.CPACongressDynamicBanners2018_728x90[0].f4_text2
 	];
 	
 	for (i=0; i<imgElems.length; i++) {

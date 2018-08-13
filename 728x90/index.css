@@ -24,8 +24,8 @@ body, html{
 }
 
 #banner {
-	width: 300px;
-	height: 250px;
+	width: 728px;
+	height: 90px;
 	position: absolute;
 	top: 0px;
 	left: 0px;
@@ -53,8 +53,8 @@ body, html{
 
 #cta_group {
 	position: absolute;
-    left: 13px;
-    bottom: 13px;
+    left: 447px;
+    bottom: 27px;
 }
 #cta {
 	border-radius: 6px;
@@ -79,12 +79,12 @@ body, html{
 }
 
 #bgImage, #trasparentBg {
-	left: -56px;
-    top: -81px;
+	left: -36px;
+    top: -355px;
 }
 #trasparentBg {
-	width: 432px;
-	height: 432px;
+	width: 800px;
+	height: 800px;
 }
 
 #frame1, #frame2, #frame3, #frame4 {
@@ -92,17 +92,23 @@ body, html{
 	height: 100%;
 }
 
+#frame1, #frame2, #frame3 {
+	line-height: 90px;
+}
+
 /*Frames Stylesheet*/
-#frame1.option2 #text1, #frame2.option4 #text1, #frame3.option4 #text1 {
+#frame1.option2 #text1, #frame2.option5 #text1, #frame3.option5 #text1 {
 	font-family: Arial, "sans-serif";
 	font-size: 32px;
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
 	line-height: 30px;
-	left:12px;
-	top:28px;
-	
+	left:20px;
+	width: 415px;
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
 }
 
 #frame2.option1 #text1, #frame3.option1 #text1 {
@@ -111,8 +117,9 @@ body, html{
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:91px;
-	top:21px;
+	left:108px;
+	top:10px;
+	line-height: normal;
 	
 }
 #frame2.option1 #text2, #frame3.option1 #text2 {
@@ -121,9 +128,10 @@ body, html{
 	color: #ffffff;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:91px;
-	top:37px;
-	width: 160px;
+	left: 108px;
+    top: 27px;
+    width: 315px;
+    line-height: normal;
 	
 }
 #frame2.option1 #text3, #frame3.option1 #text3 {
@@ -132,9 +140,10 @@ body, html{
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:12px;
-	top:95px;
-	width: 260px;
+	left: 108px;
+    top: 42px;
+    width: 315px;
+    line-height: 19px;
 }
 
 #frame4.option1 #text1 {
@@ -155,9 +164,10 @@ body, html{
 	color: #ffffff;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:138px;
-	top:66px;
-	width: 150px;
+	left: 108px;
+    top: 12px;
+    width: 315px;
+    line-height: 19px;
 }
 #frame2.option2 #text2, #frame3.option2 #text2 {
 	font-family: Arial, "sans-serif";
@@ -165,12 +175,9 @@ body, html{
     line-height: 12px;
     color: #ffffff;
     font-weight: bold;
-    left: 138px;
-    top: 145px;
-    width: 150px;
-    border-top: 1px solid #fff;
-    padding-top: 5px;
-	
+    left: 108px;
+    top: 55px;
+    width: 315px;
 }
 #frame2.option2 #text3, #frame3.option2 #text3 {
 	font-family: Arial, "sans-serif";
@@ -178,79 +185,107 @@ body, html{
 	line-height: 10px;
 	color: #00234b;
 	font-weight:bold;
-	left:138px;
-	top:164px;
-	
+	left: 108px;
+    top: 68px;
+    width: 315px;
+}
+#frame2.option3 #text1, #frame3.option3 #text1 {
+	font-family: Arial, "sans-serif";
+    font-size: 12px;
+    line-height: 12px;
+    color: #ffffff;
+    font-weight: bold;
+    left: 25px;
+    top: 55px;
+    width: 315px;
+}
+#frame2.option3 #text2, #frame3.option3 #text2 {
+	font-family: Arial, "sans-serif";
+	font-size: 10px;
+	line-height: 10px;
+	color: #00234b;
+	font-weight:bold;
+	left: 25px;
+    top: 68px;
+    width: 325px;
 }
 
-#frame2.option3 #text1, #frame3.option3 #text1 {
+#frame2.option4 #text1, #frame3.option4 #text1 {
     font-family: Arial, "sans-serif";
     font-size: 17px;
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 96px;
-	width: 260px;
+    left: 103px;
+	width: 331px;
+	line-height: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
 }
-#frame2.option5 #text1, #frame3.option5 #text1 {
+#frame2.option6 #text1, #frame3.option6 #text1 {
     font-family: Arial, "sans-serif";
     font-size: 20px;
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 27px;
-	width: 260px;
+    left: 20px;
+    width: 415px;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
 }
 
-#frame2.option6 #text1, #frame3.option6 #text1 {
+#frame2.option7 #text1, #frame3.option7 #text1 {
     font-family: Arial, "sans-serif";
     font-size: 30px;
+	line-height: normal;
     color: #00234b;
     font-weight: bold;
     text-transform: uppercase;
-    top: 74px;
+    top: 12px;
+    left: 80px;
+	width: 280px;
     text-align: center;
-    margin: 0 auto;
-    left: 0;
-    right: 0;
 }
 
-#frame2.option6 #text2, #frame3.option6 #text2 {
+#frame2.option7 #text2, #frame3.option7 #text2 {
     font-family: Arial, "sans-serif";
     font-size: 30px;
+	line-height: normal;
     color: #ffffff;
     font-weight: normal;
     text-transform: uppercase;
-    top: 110px;
+    top: 48px;
+	left: 80px;
+	width: 280px;
     text-align: center;
-    margin: 0 auto;
-    left: 0;
-    right: 0;
 }
 
 #frame4.option2 #text1 {
 	font-family: Arial, "sans-serif";
-	font-size: 32px;
+	font-size: 23px;
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
-	line-height: 30px;
-	left:12px;
-	top:28px;
-	width: 276px;
-	position: relative;
+	line-height: 22px;
+    left: 20px;
+    top: 12px;
+    width: 415px;
+    position: relative;
 }
 
 #frame4.option2 #text2 {
     font-family: Arial, "sans-serif";
-    font-size: 20px;
+    font-size: 13px;
     color: #fff;
     font-weight: bold;
+	line-height: normal;
     text-transform: uppercase;
-    left: 13px;
-    top: 27px;
-	width: 260px;
-	position: relative;
+    left: 20px;
+    top: 17px;
+    width: 415px;
+    position: relative;
+	line-height: normal;
 }

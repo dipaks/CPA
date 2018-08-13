@@ -53,8 +53,8 @@ body, html{
 
 #cta_group {
 	position: absolute;
-    left: 13px;
-    bottom: 13px;
+    left: 18px;
+    bottom: 170px;
 }
 #cta {
 	border-radius: 6px;
@@ -93,7 +93,7 @@ body, html{
 }
 
 #frame2 {
-	background: url(assets/f2.jpg);
+	
 }
 
 /*Frames Stylesheet*/
@@ -104,8 +104,9 @@ body, html{
 	font-weight:bold;
 	text-transform: uppercase;
 	line-height: 30px;
-	left:12px;
-	top:28px;
+	width: 275px;
+	left:18px;
+	top:187px;
 	
 }
 
@@ -115,8 +116,8 @@ body, html{
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:91px;
-	top:21px;
+	left:98px;
+	top:192px;
 	
 }
 #frame2.option1 #text2, #frame3.option1 #text2 {
@@ -125,8 +126,8 @@ body, html{
 	color: #ffffff;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:91px;
-	top:37px;
+	left:98px;
+	top:208px;
 	width: 160px;
 	
 }
@@ -136,8 +137,8 @@ body, html{
 	color: #00234b;
 	font-weight:bold;
 	text-transform: uppercase;
-	left:12px;
-	top:95px;
+	left:18px;
+	top:267px;
 	width: 260px;
 }
 
@@ -147,8 +148,8 @@ body, html{
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 125px;
+    left: 20px;
+    top: 245px;
     width: 260px;
 }
 
@@ -160,7 +161,7 @@ body, html{
 	font-weight:bold;
 	text-transform: uppercase;
 	left:138px;
-	top:66px;
+	top:243px;
 	width: 150px;
 }
 #frame2.option2 #text2, #frame3.option2 #text2 {
@@ -170,7 +171,7 @@ body, html{
     color: #ffffff;
     font-weight: bold;
     left: 138px;
-    top: 145px;
+    top: 328px;
     width: 150px;
     border-top: 1px solid #fff;
     padding-top: 5px;
@@ -183,7 +184,7 @@ body, html{
 	color: #00234b;
 	font-weight:bold;
 	left:138px;
-	top:164px;
+	top:347px;
 	
 }
 
@@ -193,8 +194,8 @@ body, html{
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 96px;
+    left: 18px;
+    top: 270px;
 	width: 260px;
 }
 #frame2.option5 #text1, #frame3.option5 #text1 {
@@ -203,8 +204,8 @@ body, html{
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 27px;
+    left: 18px;
+    top: 189px;
 	width: 260px;
 }
 
@@ -214,7 +215,7 @@ body, html{
     color: #00234b;
     font-weight: bold;
     text-transform: uppercase;
-    top: 74px;
+    top: 239px;
     text-align: center;
     margin: 0 auto;
     left: 0;
@@ -227,7 +228,7 @@ body, html{
     color: #ffffff;
     font-weight: normal;
     text-transform: uppercase;
-    top: 110px;
+    top: 275px;
     text-align: center;
     margin: 0 auto;
     left: 0;
@@ -241,8 +242,9 @@ body, html{
 	font-weight:bold;
 	text-transform: uppercase;
 	line-height: 30px;
-	left:12px;
-	top:28px;
+	left:18px;
+	top:187px;
+	width: 260px;
 	position: relative;
 }
 
@@ -252,8 +254,8 @@ body, html{
     color: #fff;
     font-weight: bold;
     text-transform: uppercase;
-    left: 13px;
-    top: 27px;
+    left: 18px;
+    top: 195px;
 	width: 260px;
 	position: relative;
 }

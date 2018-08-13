@@ -36,31 +36,31 @@ boilerplate.DynamicContentElements = function () {
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].frame2 = "option3";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].frame3 = "option6";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].frame4 = "option1";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165059268_f1_logo.png";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165059268_f1_logo.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_text = "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing.";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1 = {};
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165115930_quote.png";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165059268_f1_logo.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image2 = {};
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image2.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image2.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165111496_option6_text_bg.png";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image2.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165115930_quote.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_text1 = "\u201CAmazing day with minds exploding with new information. lots of opportunity.\u201D";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_text2 = "";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_text3 = "";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1 = {};
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165111496_option6_text_bg.png";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165059268_f1_logo.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image2 = {};
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image2.Type = "file";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image2.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802165111496_option6_text_bg.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_text1 = "KUALA LUMPUR";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_text2 = "6 September";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_text3 = "";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image = {};
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image.Type = "file";
-    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802170655430_f4_logo.png";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image1 = {};
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image1.Type = "file";
+    devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image1.Url = "https://s0.2mdn.net/ads/richmedia/studio/60006638/60006638_20180802170655430_f4_logo.png";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_text1 = "KUALA LUMPUR | 6 Sept";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_text2 = "";
     devDynamicContent.CPACongressDynamicBanners2018_300x600[0].logo = {};
@@ -100,7 +100,9 @@ boilerplate.DynamicContentElements = function () {
 		'<img id="image1"><div id="text1"></div>', //1 image and 1 text
 		'<img id="image1"><div id="text1"></div><div id="text2"></div><div id="text3"></div>', //1 image and 3 texts
 		'<img id="image1"><img id="image2"><div id="text1"></div><div id="text2"></div><div id="text3"></div>', //2 image and 3 texts
-		'<img id="image1"><div id="text1"></div><div id="text2"></div>' //1 image and 2 text
+		'<img id="image1"><div id="text1"></div><div id="text2"></div>', //1 image and 2 text
+		'<img id="image1"><img id="image2"><div id="text1"></div>', //2 image and 1 text
+		'<img id="image1"><img id="image2"><div id="text1"></div><div id="text2"></div>' //2 image and 2 text
 	];
 
 	switch (f1_option) {
@@ -120,7 +122,7 @@ boilerplate.DynamicContentElements = function () {
 		case 'option1':
 			frame2.classList.add('option1');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[4];
+			frame2.innerHTML = content_formats[5];
 			break;
 		case 'option2':
 			frame2.classList.add('option2');
@@ -130,22 +132,22 @@ boilerplate.DynamicContentElements = function () {
 		case 'option3':
 			frame2.classList.add('option3');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[3];
+			frame2.innerHTML = content_formats[7];
 			break;
 		case 'option4':
 			frame2.classList.add('option4');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[0];
+			frame2.innerHTML = content_formats[3];
 			break;
 		case 'option5':
 			frame2.classList.add('option5');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[0];
+			frame2.innerHTML = content_formats[3];
 			break;
 		case 'option6':
 			frame2.classList.add('option6');
 			frame2.classList.add('hide');
-			frame2.innerHTML = content_formats[6];
+			frame2.innerHTML = content_formats[8];
 			break;
 	}
 
@@ -153,7 +155,7 @@ boilerplate.DynamicContentElements = function () {
 		case 'option1':
 			frame3.classList.add('option1');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[4];
+			frame3.innerHTML = content_formats[5];
 			break;
 		case 'option2':
 			frame3.classList.add('option2');
@@ -163,22 +165,22 @@ boilerplate.DynamicContentElements = function () {
 		case 'option3':
 			frame3.classList.add('option3');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[3];
+			frame3.innerHTML = content_formats[7];
 			break;
 		case 'option4':
 			frame3.classList.add('option4');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[0];
+			frame3.innerHTML = content_formats[3];
 			break;
 		case 'option5':
 			frame3.classList.add('option5');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[0];
+			frame3.innerHTML = content_formats[3];
 			break;
 		case 'option6':
 			frame3.classList.add('option6');
 			frame3.classList.add('hide');
-			frame3.innerHTML = content_formats[6];
+			frame3.innerHTML = content_formats[8];
 			break;
 	}
 
@@ -191,7 +193,7 @@ boilerplate.DynamicContentElements = function () {
 		case 'option2':
 			frame4.classList.add('option2');
 			frame4.classList.add('hide');
-			frame4.innerHTML = content_formats[1];
+			frame4.innerHTML = content_formats[6];
 			break;
 	}
 	
@@ -228,12 +230,12 @@ boilerplate.DynamicContentElements = function () {
 	
 	var imgElems = [f1_image1, f2_image1, f2_image2, f3_image1, f3_image2, f4_image1];
 	var imgSrcs = [
-		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image.Url,
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image1.Url,
 		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1.Url,
 		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image2.Url,
 		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1.Url,
 		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image2.Url,
-		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image.Url
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image1.Url
 	];
 	
 	var textElems = [f1_text1, f2_text1, f2_text2, f2_text3, f3_text1, f3_text2, f3_text3, f4_text1, f4_text2];
@@ -249,9 +251,10 @@ boilerplate.DynamicContentElements = function () {
 		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_text2
 	];
 	
+	
 	for (i=0; i<imgElems.length; i++) {
 		if(typeof imgElems[i] !== "undefined") {
-			//console.log(imgSrcs[i]+i)
+			//console.log(imgSrcs[i]+i);
 			imgElems[i].src = imgSrcs[i];
 		}
 	}
@@ -264,6 +267,26 @@ boilerplate.DynamicContentElements = function () {
 		}
 	}
 	
+	//Declare top global logo outside of frame as they are same so don't need repeat animate
+	var congresslogoImgSrcs = [
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f1_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f2_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f3_image1.Url,
+		dynamicContent.CPACongressDynamicBanners2018_300x600[0].f4_image1.Url
+	];
+	
+	for (i=0; i<congresslogoImgSrcs.length; i++) {
+		var congrssLogo = document.getElementById("congressLogo");
+		congrssLogo.innerHTML = congrssLogo.innerHTML+('<img src="'+congresslogoImgSrcs[i]+'" id = "congLogo'+i+'">');
+	}
+	
+	//Remove logo on Frame 4 at option 1
+	if(f4_option == "option1") {
+		var logoEl = document.getElementById('congLogo3');
+		logoEl.classList.add('hide');
+		console.log(logoEl);
+	}
+	
 	boilerplate.clickTag();
 }
 
@@ -271,14 +294,14 @@ boilerplate.DynamicContentElements = function () {
 boilerplate.clickTag = function () {
 	click_through.onclick = function () {
 		Enabler.exitOverride('Background Exit', exitUrl);
-	};		
+	};
 };
 
 //Calculate images loading timing
 
 boilerplate.imgsLoading = function() {
 	var imgs = document.getElementsByTagName('img');
-	for(i=0; i<imgs.length; i++) {		
+	for(i=0; i<imgs.length; i++) {	
 		if(i == (imgs.length-1)) {
 			boilerplate.executeAnimation ();
 		}
@@ -294,12 +317,15 @@ boilerplate.executeAnimation = function (){
 	var tl2 = new TimelineMax({repeat:0, repeatDelay:10}); //tl2
 		
 	tl.to('#frame1',.50,{opacity:1, ease: Power0.easeNone},'+=0.2')
-	//.to('#frame1',.50,{opacity:0, ease: Power0.easeNone},'+=2.5')
-	//.to('#frame2',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
-	//.to('#frame2',.50,{opacity:0, ease: Power0.easeNone},'+=3.0')
-	//.to('#frame3',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
-	//.to('#frame3',.50,{opacity:0, ease: Power0.easeNone},'+=3.0')
-	//.to('#frame4',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
+	.to('#frame1',.50,{opacity:0, ease: Power0.easeNone},'+=2.5')
+	.to('#frame2',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
+	.to('#frame2',.50,{opacity:0, ease: Power0.easeNone},'+=3.0')
+	.to('#frame3',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
+	.to('#frame3',.50,{opacity:0, ease: Power0.easeNone},'+=3.0')
+	.to('#congLogo0',.50,{opacity:0, ease: Power0.easeNone},'-=0.5')
+	.to('#congLogo1',.50,{opacity:0, ease: Power0.easeNone},'-=0.5')
+	.to('#congLogo2',.50,{opacity:0, ease: Power0.easeNone},'-=0.5')
+	.to('#frame4',.50,{opacity:1, ease: Power0.easeNone},'+=0.5')
 	
 	tl1.to('#trasparentBg',7.20,{rotation:-75, ease: Power1.easeOut},'-=0.5')
 		.to('#trasparentBg',7.20,{rotation:0, ease: Power1.easeOut},'-=0.5')
