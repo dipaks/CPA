@@ -259,3 +259,6 @@ body, html{
 	width: 260px;
 	position: relative;
 }
+#frame2.option2 #text1 span, #frame3.option2 #text1 span {
+	position: relative;
+}
